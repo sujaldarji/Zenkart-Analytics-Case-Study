@@ -66,29 +66,6 @@ Cleaned data produced a more stable 12-week forecast for planning and inventory 
 
 ---
 
-## 📝 Repository Structure
-
-notebook/
-    └── Zenkart_Code.ipynb
-presentation/
-    └── Zenkart_Presentation.pptx
-report/
-    └── Zenkart_Report.docx
-visuals/
-    ├── cluster_feature_comparison.png
-    ├── Confusion_matrix_balanced.png
-    ├── Confusion_matrix.png
-    ├── Elbow_Method.png
-    ├── forecast_cleaned.png
-    ├── forecast_raw.png
-    ├── Outliers_Free.png
-    ├── Outliers.png
-    └── weekly_sales_plot.png
-README.md
-
-
----
-
 ## 📂 Visualizations
 
 All graphs used in the analysis (boxplots, cluster comparisons, confusion matrix, forecast plots) are stored in the `/visuals` folder.
